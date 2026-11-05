@@ -30,15 +30,9 @@ Seven steps, every single time. Do that a few times a day and it adds up.
 
 That's it. The search results open in a new tab right next to the one you're on, so you never lose your place.
 
-```
-  "...and then I finally watched Past Lives and I can't stop thinking about it."
-                                   ▔▔▔▔▔▔▔▔▔▔
-                                   ┌───────────────────────────┐
-                                   │  Copy                     │
-                                   │  Search Google for "..."  │
-                                   │ ●●● Search on Letterboxd  │
-                                   └───────────────────────────┘
-```
+<p align="center">
+  <img src="docs/context-menu.svg" width="680" alt="Right-click menu with the Search on Letterboxd option">
+</p>
 
 ## Why you'll like it
 
