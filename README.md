@@ -45,17 +45,22 @@ That's it. The search results open in a new tab right next to the one you're on,
 
 ## Install
 
-**From Firefox Add-ons (recommended)**
-Coming soon on [addons.mozilla.org](https://addons.mozilla.org/).
+- **Firefox**: coming soon on [Firefox Add-ons](https://addons.mozilla.org/).
+- **Chrome** (and Edge, Brave, Opera, Vivaldi): coming soon on the [Chrome Web Store](https://chromewebstore.google.com/).
 
 **Try it from source**
+
+*Firefox*
 1. Clone or download this repository
-2. Open `about:debugging#/runtime/this-firefox` in Firefox
+2. Open `about:debugging#/runtime/this-firefox`
 3. Click **Load Temporary Add-on…** and pick `manifest.json`
 
-> Temporary add-ons are removed when Firefox restarts. Use the Add-ons store version to keep it permanently.
+*Chrome / Chromium browsers*
+1. Clone or download this repository
+2. Open `chrome://extensions` and turn on **Developer mode** (top right)
+3. Click **Load unpacked** and pick the project folder
 
-Requires Firefox 140 or later.
+Requires Firefox 140+ or Chrome 121+.
 
 ## How it works
 
@@ -70,10 +75,10 @@ Everything happens in your browser. The only website contacted is Letterboxd its
 ## Project structure
 
 ```
-├── manifest.json        # Extension manifest (Manifest V3)
+├── manifest.json        # Extension manifest (Manifest V3, Firefox + Chrome)
 ├── background.js        # Context menu + search logic
-└── icons/
-    └── letterboxd.svg   # Menu and extension icon
+├── icons/               # Extension icons (PNG + SVG source)
+└── docs/                # README and store images
 ```
 
 ## Disclaimer
