@@ -45,8 +45,8 @@ That's it. The search results open in a new tab right next to the one you're on,
 
 ## Install
 
-- **Firefox**: coming soon on [Firefox Add-ons](https://addons.mozilla.org/).
-- **Chrome** (and Edge, Brave, Opera, Vivaldi): coming soon on the [Chrome Web Store](https://chromewebstore.google.com/).
+**From Firefox Add-ons (recommended)**
+Coming soon on [addons.mozilla.org](https://addons.mozilla.org/).
 
 **Try it from source**
 
