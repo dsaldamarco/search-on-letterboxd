@@ -46,14 +46,9 @@ That's it. The search results open in a new tab right next to the one you're on,
 ## Install
 
 **From Firefox Add-ons (recommended)**
-Coming soon on [addons.mozilla.org](https://addons.mozilla.org/).
+https://addons.mozilla.org/en-US/firefox/addon/search-on-letterboxd/
 
 **Try it from source**
-
-*Firefox*
-1. Clone or download this repository
-2. Open `about:debugging#/runtime/this-firefox`
-3. Click **Load Temporary Add-on…** and pick `manifest.json`
 
 *Chrome / Chromium browsers*
 1. Clone or download this repository
